@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">10119194latihan2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="connect_fb">CONNECT WITH FACEBOOK</string>
+    <string name="regist">Register</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="retype_pass">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="home_add">Home Address</string>
+    <string name="default_loc">Default Location</string>
+    <string name="agree_terms">Agree with Terms and Conditions</string>
+    <string name="almost_there">Almost There</string>
+    <string name="almost_there_desc">Thank you for registering with us.One more\nstep,you need check your email \nto active your account</string>
+    <string name="send_account">We have send verification code to your email</string>
+    <string name="verify_account">Verify your Account</string>
+    <string name="sent">Send</string>
+    <string name="name_desc">Ferdy Mohamad Firdaus 10119194</string>
+    <string name="bloodtype">Blood Type : A</string>
+
+    <string-array name="BloodType">
+        <item>BloodType</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="Resush">
+        <item>Resush</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="Job">
+        <item>Job</item>
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+
+</resources>
